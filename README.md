@@ -47,6 +47,8 @@ Este projeto foi desenvolvido em 2008 como parte da minha graduação em **Geren
 
 ---
 
+## Project Structure / Estrutura do Projeto
+
 /voip-protocols-comparison-lab
 ├── README.md
 ├── docs/
@@ -57,20 +59,8 @@ Este projeto foi desenvolvido em 2008 como parte da minha graduação em **Geren
 
 ---
 
-
----
-
 ## How to Use / Como Utilizar
 
 You can use this repository as a reference for academic studies, technical documentation, or training material on VoIP fundamentals.
 
 Você pode utilizar este repositório como referência para estudos acadêmicos, documentação técnica ou material de treinamento sobre fundamentos do VoIP.
-
-
-
-
-
-
-## Project Structure / Estrutura do Projeto
-
-
