@@ -1,0 +1,6 @@
+RFC 3261 - SIP: Session Initiation Protocol  
+RFC 3550 - RTP: A Transport Protocol for Real-Time Applications  
+ITU-T H.323 Recommendations  
+Cisco VoIP Overview – White Paper  
+https://www.itu.int/  
+https://tools.ietf.org/
